@@ -23,11 +23,11 @@ A script that connects to your Google Calendar and schedules all the classes fro
 
 6. Run the script. 
 
-First Argument: The name you wish to schedule the class as
+    First Argument: The name you wish to schedule the class as
 
-Second Argument: Link to the class
+    Second Argument: Link to the class
 
-Example: ```OpenUScheduler.py Calculus https://sheilta.apps.openu.ac.il/pls/dmyopt2/course_info_2.PIRTAIKVUTZA?p_kurs=20466&p_semester=2019b&p_MERKAZ_LIMUD=660&p_KVUTZAT_LIMUD=01&P_KOD_PEILUT_KURS=01 ```
+    Example: ```OpenUScheduler.py Calculus https://sheilta.apps.openu.ac.il/pls/dmyopt2/course_info_2.PIRTAIKVUTZA?p_kurs=20466&p_semester=2019b&p_MERKAZ_LIMUD=660&p_KVUTZAT_LIMUD=01&P_KOD_PEILUT_KURS=01 ```
 
 
 
