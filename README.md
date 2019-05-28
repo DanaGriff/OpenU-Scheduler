@@ -22,6 +22,7 @@ A script that connects to your Google Calendar and schedules all the classes fro
     f. Download the file and put in the same folder as the script.
 
 6. Run the script. 
+
 First Argument: The name you wish to schedule the class as
 
 Second Argument: Link to the class
