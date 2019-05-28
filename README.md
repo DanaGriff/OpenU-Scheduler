@@ -1,5 +1,3 @@
-# 
-
 # OpenUScheduler
 A script that connects to your Google Calendar and schedules all the classes from a specific url of OpenU
 
